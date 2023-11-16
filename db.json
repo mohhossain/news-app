@@ -1,0 +1,46 @@
+{
+  "bookmarks": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Apple TV Plus is getting a price hike — and other Apple subscriptions are, too",
+      "description": "Apple is increasing the price on Apple Arcade, Apple News Plus, and the Apple One bundle. Apple TV Plus is going from $6.99 per month to $9.99 per month.",
+      "url": "https://www.theverge.com/2023/10/25/23931577/apple-tv-plus-news-arcade-one-subscription-price-increase",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2QP05YUbQ5-8yF2RFEUloacoiQg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23988689/acastro_STK069_appleTVPlus_02.jpg",
+      "publishedAt": "2023-10-25T14:04:41Z",
+      "content": "Apple TV Plus is getting a price hike and other Apple subscriptions are, too\r\nApple TV Plus is getting a price hike and other Apple subscriptions are, too\r\n / Apple Arcade, Apple News Plus, and the A… [+1329 chars]",
+      "id": 1
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Khamosh Pathak",
+      "title": "Use These New Google Tools to Find Holiday Discounts",
+      "description": "Google gets a lot of traffic around the holidays, and for good reason: We use the search engine to find deals across hundreds of stores and brands, a much more efficient strategy than individually going store to store. Now, when you search for things like “sh…",
+      "url": "https://lifehacker.com/use-these-new-google-tools-to-find-holiday-discounts-1851001880",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ce46ecfe46b27a698adc5f744ce582ce.png",
+      "publishedAt": "2023-11-08T14:30:00Z",
+      "content": "Google gets a lot of traffic around the holidays, and for good reason: We use the search engine to find deals across hundreds of stores and brands, a much more efficient strategy than individually go… [+1611 chars]",
+      "id": 2
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Sarah Fielding",
+      "title": "Google Maps adds collaborative lists and new transit search customizations",
+      "description": "Google Maps is rolling out some new features ahead of the very fun, not at all hectic travel season known as the holidays. The updates aren't actually holiday specific — though we'll admit the timing isn't bad — with a focus on ways to figure out where you're…",
+      "url": "https://www.engadget.com/google-maps-adds-collaborative-lists-and-new-transit-search-customizations-140031424.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Lm4H971OuqDYmoi_GArFMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDk-/https://s.yimg.com/os/creatr-uploaded-images/2022-09/110ad020-3476-11ed-9b6d-d0fb5e67d0f5",
+      "publishedAt": "2023-11-15T14:00:31Z",
+      "content": "Google Maps is rolling out some new features ahead of the very fun, not at all hectic travel season known as the holidays. The updates aren't actually holiday specific though we'll admit the timing i… [+1510 chars]",
+      "id": 3
+    }
+  ]
+}

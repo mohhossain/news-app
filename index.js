@@ -33,7 +33,7 @@ const renderNews = (news) => {
 
     const bookmarkButton = newsItemElement.querySelector(".news-item__button");
     bookmarkButton.addEventListener("click", () => {
-      fetch("https://fs-news-server.onrender.com/api/saved_news", {
+      fetch("https://news-server-ix8f.onrender.com/bookmarks", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -60,7 +60,7 @@ bookmarkButton.addEventListener("click", () => {
 });
 
 const fetchSavedNews = () => {
-  fetch("https://fs-news-server.onrender.com/api/saved_news")
+  fetch("https://news-server-ix8f.onrender.com/bookmarks")
     .then((response) => response.json())
     .then((data) => {
       console.log(data);
